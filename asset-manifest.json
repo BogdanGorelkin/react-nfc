@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-nfc/static/css/main.073c9b0a.css",
-    "main.js": "/react-nfc/static/js/main.7d3d8185.js",
+    "main.js": "/react-nfc/static/js/main.b7f7e46b.js",
     "static/js/787.77d92e72.chunk.js": "/react-nfc/static/js/787.77d92e72.chunk.js",
     "static/media/logo.svg": "/react-nfc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/react-nfc/index.html",
     "main.073c9b0a.css.map": "/react-nfc/static/css/main.073c9b0a.css.map",
-    "main.7d3d8185.js.map": "/react-nfc/static/js/main.7d3d8185.js.map",
+    "main.b7f7e46b.js.map": "/react-nfc/static/js/main.b7f7e46b.js.map",
     "787.77d92e72.chunk.js.map": "/react-nfc/static/js/787.77d92e72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7d3d8185.js"
+    "static/js/main.b7f7e46b.js"
   ]
 }
