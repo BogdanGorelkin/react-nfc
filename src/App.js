@@ -1,7 +1,5 @@
 import React, { HashRouter, Route, Routes } from 'react-router-dom'
 import MainPage from './features/MainPage'
-import './App.css'
-
 
 function App() {
   return (
